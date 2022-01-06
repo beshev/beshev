@@ -23,9 +23,13 @@
 |<a href="https://softuni.bg/trainings/3213/csharp-fundamentals-january-2021"> C# Fundamentals </a>| <a href="https://softuni.bg/certificates/details/103606/cc51aff0"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3343/csharp-advanced-may-2021"> C# Advanced </a>| <a href="https://softuni.bg/certificates/details/108642/5ae86c33"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3344/csharp-oop-june-2021"> C# OOP </a>| <a href="https://softuni.bg/certificates/details/113007/07b0fc26"> :heavy_check_mark: Certificate</a> |
+|<a href="https://softuni.bg/trainings/3419/data-structures-fundamentals-with-csharp-june-2021"> Data Structures Fundamentals (with C#) </a>| <a href="https://softuni.bg/certificates/details/110041/7f0f2b8d"> :heavy_check_mark: Certificate</a> |
+|<a href="https://softuni.bg/trainings/3420/data-structures-advanced-with-csharp-august-2021"> Data Structures Advanced (with C#) </a>| <a href="https://softuni.bg/certificates/details/113757/0b86c6be"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3531/ms-sql-september-2021"> MS SQL Server </a>| <a href="https://softuni.bg/certificates/details/113882/646a9a28"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3492/entity-framework-core-october-2021"> Entity Framework Core </a>| <a href="https://softuni.bg/certificates/details/119040/1eb2af82">  :heavy_check_mark: Certificate</a> |
-|<a href="https://softuni.bg/trainings/3593/csharp-web-basics-basics-january-2022"> C# Web Basics </a>| <a href="javascript:void(0)">  :heavy_check_mark: Coming soon!</a> |
-|<a href="https://softuni.bg/trainings/3601/asp-dot-net-core-february-2022"> ASP.NET Core </a>| <a href="javascript:void(0)"> :heavy_check_mark:  Coming soon!</a> |
 |<a href="https://softuni.bg/trainings/3487/js-advanced-september-2021"> JS Advanced </a>| <a href="https://softuni.bg/certificates/details/114934/137bc590"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3488/js-applications-october-2021"> JS Applications </a>| <a href="https://softuni.bg/certificates/details/121046/b4e4a12f"> :heavy_check_mark: Certificate</a> |
+|<a href="https://softuni.bg/trainings/3593/csharp-web-basics-basics-january-2022"> C# Web Basics </a>| <a href="javascript:void(0)">  :heavy_check_mark: Coming soon!</a> |
+|<a href="https://softuni.bg/trainings/3601/asp-dot-net-core-february-2022"> ASP.NET Core </a>| <a href="javascript:void(0)"> :heavy_check_mark:  Coming soon!</a> |
+|<a href="https://softuni.bg/trainings/3637/algorithms-fundamentals-with-c-sharp-december-2021"> Algorithms Fundamentals with C# </a>| <a href="javascript:void(0)"> :heavy_check_mark:  Coming soon!</a> |
+|<a href="https://softuni.bg/trainings/3638/algorithms-advanced-with-c-sharp-january-2022"> Algorithms Advanced with C# </a>| <a href="javascript:void(0)"> :heavy_check_mark:  Coming soon!</a> |
