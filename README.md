@@ -31,5 +31,5 @@
 |<a href="https://softuni.bg/trainings/3488/js-applications-october-2021"> JS Applications </a>| <a href="https://softuni.bg/certificates/details/121046/b4e4a12f"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3593/csharp-web-basics-basics-january-2022"> C# Web Basics </a>| <a href="javascript:void(0)">  :heavy_check_mark: Coming soon!</a> |
 |<a href="https://softuni.bg/trainings/3601/asp-dot-net-core-february-2022"> ASP.NET Core </a>| <a href="javascript:void(0)"> :heavy_check_mark:  Coming soon!</a> |
-|<a href="https://softuni.bg/trainings/3637/algorithms-fundamentals-with-c-sharp-december-2021"> Algorithms Fundamentals with C# </a>| <a href="javascript:void(0)"> :heavy_check_mark:  Coming soon!</a> |
-|<a href="https://softuni.bg/trainings/3638/algorithms-advanced-with-c-sharp-january-2022"> Algorithms Advanced with C# </a>| <a href="javascript:void(0)"> :heavy_check_mark:  Coming soon!</a> |
+|<a href="https://softuni.bg/trainings/3637/algorithms-fundamentals-with-c-sharp-december-2021"> Algorithms Fundamentals with C# </a>| <a href="javascript:void(0)"> :o:  Coming soon!</a> |
+|<a href="https://softuni.bg/trainings/3638/algorithms-advanced-with-c-sharp-january-2022"> Algorithms Advanced with C# </a>| <a href="javascript:void(0)"> :o:  Coming soon!</a> |
