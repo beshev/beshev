@@ -11,7 +11,7 @@
 
 ## My Repos ## 
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=beshev&repo=SoftUni&show_owner=false)](https://github.com/beshev/SoftUni)
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=beshev&repo=FitnessBuddy&show_owner=true)](https://github.com/beshev/FitnessBuddy)
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=beshev&repo=FitnessBuddy&show_owner=false)](https://github.com/beshev/FitnessBuddy)
 
 **Languages**  
 <code><img height="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
