@@ -33,4 +33,4 @@
 |<a href="https://softuni.bg/trainings/3637/algorithms-fundamentals-with-c-sharp-december-2021"> Algorithms Fundamentals with C# </a>| <a href="https://softuni.bg/certificates/details/123086/c4fe2fb4"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3638/algorithms-advanced-with-c-sharp-january-2022"> Algorithms Advanced with C# </a>| <a href="https://softuni.bg/certificates/details/127903/a80a100f"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3593/csharp-web-basics-basics-january-2022"> C# Web Basics </a>| <a href="https://softuni.bg/certificates/details/126326/d60a45f0">  :heavy_check_mark: Certificate</a> |
-|<a href="https://softuni.bg/trainings/3601/asp-dot-net-core-february-2022"> ASP.NET Core </a>| <a href="javascript:void(0)"> :hourglass_flowing_sand:  Coming soon!</a> |
+|<a href="https://softuni.bg/trainings/3601/asp-dot-net-core-february-2022"> ASP.NET Core </a>| <a href="https://softuni.bg/certificates/details/132624/6b05c912"> :hourglass_flowing_sand:  Coming soon!</a> |
