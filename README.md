@@ -5,7 +5,7 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beshev&layout=compact" />
 </div>
 
-- 🌱 Currently studying Software Engineering with C# and Java Script at the Software University
+- 🌱 Currently working in ZigZag.GLobal
 - 💌 Email: beshev1@gmail.com
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/dimitar-beshev-74774b201/">Dimitar Beshev</a>
 
